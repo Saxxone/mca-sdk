@@ -1,12 +1,24 @@
 {
   "name": "mycover_sdk",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Supercharge your business with embedded insurance",
+  "main": "./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress open",
+    "dev": "tsc & node ./dist/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Mycover",
+    "Mycover AI",
+    "Insurance",
+    "Insuretech",
+    "Embedded Insurance"
+  ],
+  "author": "MYcover AI",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
 }
