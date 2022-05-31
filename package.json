@@ -1,6 +1,6 @@
 {
-  "name": "mycover_sdk",
-  "version": "1.0.0",
+  "name": "mycover-sdk-publish-body",
+  "version": "1.0.1",
   "description": "Supercharge your business with embedded insurance",
   "main": "./dist/index.js",
   "scripts": {

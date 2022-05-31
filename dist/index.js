@@ -1,9 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const mycover_1 = require("./mycover");
-(0, mycover_1.mycover)({}, {
-    onClose: onClose
-});
-function onClose() {
-}
+module.exports.mycover = mycover_1.mycover;
 //# sourceMappingURL=index.js.map
