@@ -5,4 +5,4 @@
 `npm i mycover_sdk`
 
 # CDN
-`<script src= "https://unpkg.com/browse/react@18.1.0"></script>`
+`<script src= "https://unpkg.com/browse/mycover_sdk@1.0.1/"></script>`
